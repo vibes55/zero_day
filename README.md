@@ -1,1 +1,1 @@
-cloning my local terminal into github
+cloning my local cmd terminal into github
