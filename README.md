@@ -1,1 +1,1 @@
-cloning ly local terminal into github
+cloning my local terminal into github
